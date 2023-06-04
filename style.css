@@ -1,0 +1,17 @@
+#picture{
+    height:470px;
+    width:1200px;
+    border:5px solid sienna;
+    background-color: wheat;
+    border-radius: 10px;
+    display:flex;
+    justify-content:  space-around;
+    justify-content: space-evenly;
+    margin:auto;
+}
+img
+{
+    padding: 40px;
+    border: 5px black;
+    height: 250px;
+}
